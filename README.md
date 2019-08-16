@@ -6,6 +6,8 @@
 
 ### **MC.JS brings the best-selling PC game Minecraft into the web with the power of Javascript.**
 
+# Edit
+
 # Motivation
 
 Having to open an additional app to play a game is sometimes too tiring. Therefore, I thought it'd be interesting to somehow implement Minecraft with javascript, essentially bringing the whole Minecraft game onto the web. This not only takes away the tedious process of installing the game, it also brings the entire game to players within a couple clicks.
